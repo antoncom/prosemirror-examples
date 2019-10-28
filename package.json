@@ -17,10 +17,17 @@
     "url": "git://github.com/prosemirror/prosemirror.git"
   },
   "dependencies": {
-    "prosemirror-example-setup": "^1.0.1",
-    "prosemirror-schema-basic": "^1.0.0",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
     "event-stream": "github:dominictarr/event-stream.git",
-    "flatmap-stream": "github:hugeglass/flatmap-stream.git"
+    "flatmap-stream": "github:hugeglass/flatmap-stream.git",
+    "prosemirror-example-setup": "^1.0.1",
+    "prosemirror-model": "^1.7.4",
+    "prosemirror-schema-basic": "^1.0.1",
+    "prosemirror-schema-list": "^1.0.4",
+    "prosemirror-state": "^1.2.4",
+    "prosemirror-view": "^1.12.1"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.3",
