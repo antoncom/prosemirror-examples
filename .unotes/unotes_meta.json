@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "public": {
+      "name": "public",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "src": {
+      "name": "src",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "style": {
+      "name": "style",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "notes": {
+      "name": "notes",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "[vscode, typescript, js, es6]": 0,
+        "[screenshort, linux, shell]": 1
+      }
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}

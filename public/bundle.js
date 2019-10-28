@@ -3565,7 +3565,7 @@
 	exports.ContentMatch = ContentMatch;
 	exports.DOMParser = DOMParser;
 	exports.DOMSerializer = DOMSerializer;
-	//# sourceMappingURL=index.js.map
+
 	});
 
 	unwrapExports(dist);
@@ -5311,7 +5311,7 @@
 	exports.ReplaceStep = ReplaceStep;
 	exports.ReplaceAroundStep = ReplaceAroundStep;
 	exports.replaceStep = replaceStep;
-	//# sourceMappingURL=index.js.map
+
 	});
 
 	unwrapExports(dist$1);
@@ -6476,7 +6476,7 @@
 	exports.EditorState = EditorState;
 	exports.Plugin = Plugin;
 	exports.PluginKey = PluginKey;
-	//# sourceMappingURL=index.js.map
+
 	});
 
 	unwrapExports(dist$2);
@@ -11215,7 +11215,7 @@
 	exports.DecorationSet = DecorationSet;
 	exports.__serializeForClipboard = serializeForClipboard;
 	exports.__parseFromClipboard = parseFromClipboard;
-	//# sourceMappingURL=index.js.map
+
 	});
 
 	unwrapExports(dist$3);
@@ -11480,7 +11480,7 @@
 	exports.splitListItem = splitListItem;
 	exports.liftListItem = liftListItem;
 	exports.sinkListItem = sinkListItem;
-	//# sourceMappingURL=schema-list.js.map
+
 	});
 
 	unwrapExports(schemaList);
@@ -11655,7 +11655,7 @@
 	exports.nodes = nodes;
 	exports.marks = marks;
 	exports.schema = schema;
-	//# sourceMappingURL=schema-basic.js.map
+
 	});
 
 	unwrapExports(schemaBasic);
@@ -11892,7 +11892,7 @@
 
 	exports.keymap = keymap;
 	exports.keydownHandler = keydownHandler;
-	//# sourceMappingURL=keymap.js.map
+
 	});
 
 	unwrapExports(keymap_1);
@@ -12561,7 +12561,7 @@
 	exports.redo = redo;
 	exports.undoDepth = undoDepth;
 	exports.redoDepth = redoDepth;
-	//# sourceMappingURL=history.js.map
+
 	});
 
 	unwrapExports(history_1);
@@ -13236,7 +13236,7 @@
 	exports.pcBaseKeymap = pcBaseKeymap;
 	exports.macBaseKeymap = macBaseKeymap;
 	exports.baseKeymap = baseKeymap;
-	//# sourceMappingURL=commands.js.map
+
 	});
 
 	unwrapExports(commands);
@@ -13387,7 +13387,7 @@
 	};
 
 	exports.dropCursor = dropCursor;
-	//# sourceMappingURL=dropcursor.js.map
+
 	});
 
 	unwrapExports(dropcursor);
@@ -13585,7 +13585,7 @@
 
 	exports.gapCursor = gapCursor;
 	exports.GapCursor = GapCursor;
-	//# sourceMappingURL=index.js.map
+
 	});
 
 	unwrapExports(dist$5);
@@ -14430,7 +14430,7 @@
 	exports.wrapItem = wrapItem;
 	exports.blockTypeItem = blockTypeItem;
 	exports.menuBar = menuBar;
-	//# sourceMappingURL=index.js.map
+
 	});
 
 	unwrapExports(dist$6);
@@ -14622,7 +14622,7 @@
 	exports.smartQuotes = smartQuotes;
 	exports.wrappingInputRule = wrappingInputRule;
 	exports.textblockTypeInputRule = textblockTypeInputRule;
-	//# sourceMappingURL=index.js.map
+
 	});
 
 	unwrapExports(dist$7);
@@ -15267,7 +15267,7 @@
 	exports.buildKeymap = buildKeymap;
 	exports.buildInputRules = buildInputRules;
 	exports.exampleSetup = exampleSetup;
-	//# sourceMappingURL=index.js.map
+
 	});
 
 	unwrapExports(dist$8);
